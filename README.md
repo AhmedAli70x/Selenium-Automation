@@ -8,4 +8,4 @@ This script get the patients data from geodes website and export it to excel she
 
 
 ### CSV result
-![image]()
+<img width="1118" alt="image" src="https://user-images.githubusercontent.com/71847656/160706171-a91fe1d4-fb71-4dce-be08-de9d0509aceb.png">
