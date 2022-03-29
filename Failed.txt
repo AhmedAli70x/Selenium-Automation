@@ -1,0 +1,4 @@
+https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=sursaud_sau.prop_asthme_hospit_sau&s=2021-S02&t=a01&view=map2
+https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=sursaud_sau.prop_asthme_hospit_sau&s=2021-S05&t=a01&view=map2
+https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=sursaud_sau.prop_asthme_hospit_sau&s=2021-S06&t=a01&view=map2
+https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=sursaud_sau.prop_asthme_hospit_sau&s=2021-S07&t=a01&view=map2
